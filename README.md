@@ -13,7 +13,7 @@
 ### 🤓 Something more about me
 
 * 🌍  I'm based in Milan, Italy
-* ✉️  You can contact me at [essemme.dev@gmail.com](mailto:essemme.dev@gmail.com)
+* ✉️  You can contact me at [essemme.dev@gmail.com](mailto:contact@strelka.it)
 * 🧠  I'm learning Typescript, React and exploring NextJS and Tailwindcss.
 * 🤝  I'm open to collaborate with anyone.
 * ⚡  Skater🛼 – and 🧘🏻‍♀️sports enthusiast🏊🏻‍♀️ | Compulsive Reader📖 | Comedy Binge Watcher | Chaotic Neutral 👓| My Magic deck is green&black | I like to lurk (and I meme a lot) 
